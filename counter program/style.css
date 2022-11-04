@@ -1,0 +1,29 @@
+#countLable{
+    display: block;
+    text-align: center;
+    font-size: 50px;
+}
+#decreaseBtn{
+    display: flexbox;
+   margin: 50px;
+    font-size: 50px;
+}
+#resetBtn{
+    display: flexbox;
+    margin: 100px;
+    font-size: 50px;
+}
+#increaseBtn{
+    display: flexbox;
+   margin: 50px;
+    font-size: 50px;
+}
+#resetBtn{
+background-color: gray;
+}
+#decreaseBtn{
+    background-color:red;
+}
+#increaseBtn{
+    background-color: green;
+}
